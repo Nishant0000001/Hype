@@ -39,7 +39,7 @@
   </head>
   <body>
     <div class="album">
-      <div class="cover" style="background-image: url('./cover.jpg');"></div>
+      <div class="cover" style="background-image: url('https://m.media-amazon.com/images/I/71CSzlUC0aL._SL1500_.jpg');"></div>
       <div class="details">
         <h2>Brown Rang</h2>
         <p>Honey Singh</p>
