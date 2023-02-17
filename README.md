@@ -42,8 +42,8 @@
     <div class="album">
       <div class="cover" style="background-image: url('./cover.jpg');"></div>
       <div class="details">
-        <h2>Album Title</h2>
-        <p>Artist Name</p>
+        <h2>Brown Rang</h2>
+        <p>Honey Singh</p>
       </div>
     </div>
   </body>
