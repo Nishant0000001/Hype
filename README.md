@@ -2,6 +2,26 @@
   <head>
     <title>My Music Library</title>
   </head>
+  <style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #dddddd;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+</style>
   <body>
     <h1>My Music Library</h1>
     <table>
