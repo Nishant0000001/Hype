@@ -1,2 +1,0 @@
-# Hype
-Music library
